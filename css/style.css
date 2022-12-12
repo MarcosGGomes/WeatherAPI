@@ -1,0 +1,58 @@
+body {
+    background-image: url(sky.jpg);
+}
+/* grid */
+
+.text-center {
+    margin-top: 120px;
+    height: 500px;
+}
+
+.text-center #col2 {
+    background-color: rgb(8, 132, 241);
+    height: 500px;
+    border-radius: 5px;
+}
+
+.text-center #col1 {
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+    
+
+
+/* grid-form */
+
+.erro {
+    background-color: red;
+}
+form {
+    margin-top: 200px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.btn {
+    color: black;
+    background-color: rgb(55, 200, 200);
+    border-color: aliceblue;
+    width: 200px;
+}
+
+/* grid time */
+
+.cityName {
+    font-size: 30px;
+    margin-top: 80px;
+}
+
+.temp {
+    margin-top: 55px;
+    font-size: 50px;
+}
+
+.description {
+    margin-top: 75px;
+    font-size: 20px;
+}
